@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Ernaldis/template-template">
+  <a href="https://github.com/Ernaldis/python-paver-template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -25,14 +25,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/Ernaldis/template-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Ernaldis/python-paver-template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Ernaldis/template-template">View Demo</a>
+    <a href="https://github.com/Ernaldis/python-paver-template">View Demo</a>
     ·
-    <a href="https://github.com/Ernaldis/template-template/issues">Report Bug</a>
+    <a href="https://github.com/Ernaldis/python-paver-template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Ernaldis/template-template/issues">Request Feature</a>
+    <a href="https://github.com/Ernaldis/python-paver-template/issues">Request Feature</a>
   </p>
 </p>
 
@@ -95,7 +95,7 @@ install them.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/Ernaldis/template-template.git
+   git clone https://github.com/Ernaldis/python-paver-template.git
    ```
 
 <!-- USAGE EXAMPLES -->
@@ -112,7 +112,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Roadmap
 
-See the [open issues](https://github.com/Ernaldis/template-template/issues)
+See the [open issues](https://github.com/Ernaldis/python-paver-template/issues)
 for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
@@ -143,7 +143,7 @@ information.
 Your Name - ernaldis@protonmail.com
 
 Project Link:
-[https://github.com/Ernaldis/template-template](https://github.com/Ernaldis/template-template)
+[https://github.com/Ernaldis/python-paver-template](https://github.com/Ernaldis/python-paver-template)
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -157,22 +157,22 @@ Project Link:
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]:
-  https://img.shields.io/github/contributors/ernaldis/template-template.svg?style=for-the-badge
+  https://img.shields.io/github/contributors/ernaldis/python-paver-template.svg?style=for-the-badge
 [contributors-url]:
-  https://github.com/ernaldis/template-template/graphs/contributors
+  https://github.com/ernaldis/python-paver-template/graphs/contributors
 [forks-shield]:
-  https://img.shields.io/github/forks/ernaldis/template-template.svg?style=for-the-badge
-[forks-url]: https://github.com/ernaldis/template-template/network/members
+  https://img.shields.io/github/forks/ernaldis/python-paver-template.svg?style=for-the-badge
+[forks-url]: https://github.com/ernaldis/python-paver-template/network/members
 [stars-shield]:
-  https://img.shields.io/github/stars/ernaldis/template-template.svg?style=for-the-badge
-[stars-url]: https://github.com/ernaldis/template-template/stargazers
+  https://img.shields.io/github/stars/ernaldis/python-paver-template.svg?style=for-the-badge
+[stars-url]: https://github.com/ernaldis/python-paver-template/stargazers
 [issues-shield]:
-  https://img.shields.io/github/issues/ernaldis/template-template.svg?style=for-the-badge
-[issues-url]: https://github.com/ernaldis/template-template/issues
+  https://img.shields.io/github/issues/ernaldis/python-paver-template.svg?style=for-the-badge
+[issues-url]: https://github.com/ernaldis/python-paver-template/issues
 [license-shield]:
-  https://img.shields.io/github/license/ernaldis/template-template.svg?style=for-the-badge
+  https://img.shields.io/github/license/ernaldis/python-paver-template.svg?style=for-the-badge
 [license-url]:
-  https://github.com/ernaldis/template-template/blob/master/LICENSE.txt
+  https://github.com/ernaldis/python-paver-template/blob/master/LICENSE.txt
 [linkedin-shield]:
   https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/timothy-c-70b6081a0/
